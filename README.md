@@ -82,6 +82,8 @@ print("🚀 Transforming ideas into intelligent systems!")
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -95,26 +97,6 @@ print("🚀 Transforming ideas into intelligent systems!")
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Noufal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Noufal&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Noufal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Noufal&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true"/>
-</div>
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=Mohamed-Noufal&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)
-  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -203,12 +185,6 @@ const currentProjects = {
     description: "Advanced agent orchestration patterns",
     tech: ["LangGraph", "CrewAI", "AutoGen"],
     status: "Experimental"
-  },
-  
-  🔗 mcpIntegration: {
-    description: "Model Context Protocol exploration",
-    tech: ["Python", "MCP", "LLMs"],
-    status: "Research Phase"
   }
 };
 
@@ -217,31 +193,23 @@ const currentProjects = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Noufal&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Activity" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Noufal&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💡 Core Expertise
 
 <div align="center">
 
-| 🤖 Agentic AI | 🔍 RAG Systems | 🧠 LLM Applications | 🎤 Voice AI |
+| 🤖 Agentic AI | 🔍 RAG Systems | 🧠 LLM Applications | 🎓 Supervised ML |
 |:---:|:---:|:---:|:---:|
-| Multi-agent orchestration | Vector databases | Fine-tuning | Speech recognition |
-| LangGraph workflows | Hybrid search | Prompt engineering | NLU/NLG |
-| Tool integration | Embeddings | Context management | Voice synthesis |
+| Multi-agent orchestration | Vector databases | Fine-tuning | Linear Regression |
+| LangGraph workflows | Hybrid search | Prompt engineering | Logistic Regression |
+| Tool integration | Embeddings | Context management | Decision Trees |
+| Agent coordination | Semantic search | Model deployment | Random Forest |
+
+| 🎯 Unsupervised ML | 🎤 Voice AI | 🔧 MLOps | 🛠️ Tools & Frameworks |
+|:---:|:---:|:---:|:---:|
+| K-Means Clustering | Speech recognition | CI/CD pipelines | TensorFlow & PyTorch |
+| Hierarchical Clustering | NLU/NLG | Model monitoring | Scikit-learn |
+| PCA | Voice synthesis | A/B testing | LangChain & LangGraph |
+| DBSCAN | Audio processing | Experiment tracking | FastAPI & Streamlit |
 
 </div>
 
@@ -277,18 +245,3 @@ Always open to discussing AI/ML innovations, collaborating on cutting-edge proje
   **⚡ "The best way to predict the future is to build it." ⚡**
   
 </div>
-
-<!--
-**Mohamed-Noufal/Mohamed-Noufal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
