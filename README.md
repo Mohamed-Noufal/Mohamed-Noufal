@@ -23,7 +23,7 @@ class AIEngineer:
     def __init__(self):
         self.name = "Mohamed Noufal"
         self.role = "AI & Agentic Systems Architect"
-        self.location = "Damietta, Egypt 🇪🇬"
+        self.location = " Egypt 🇪🇬"
         self.education = "Mechatronics Engineering + AI"
         
     def current_work(self):
